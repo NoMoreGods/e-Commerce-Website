@@ -283,7 +283,8 @@ label {
 }
 
 .productImg {
-  width: 50%;
+  width: 40%;
+
 }
 
 .productDetails {
@@ -375,7 +376,7 @@ label {
 }
 
 .nsImg {
-  width: 100%;
+  width: 500px;
   height: 500px;
 }
 
@@ -508,7 +509,7 @@ footer {
   }
 
   .productImg{
-    width: 80%;
+    width: 50%;
   }
 
   .productDetails{
